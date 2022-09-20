@@ -1,5 +1,9 @@
 [
   {
+    "package": "grandR",
+    "oncran": true
+  },
+  {
     "package": "lfc",
     "oncran": true
   }

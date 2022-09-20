@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "grandR"]
+	path = grandR
+	url = https://github.com/erhard-lab/grandr
+	shallow = true
+	registered = true
 [submodule "lfc"]
 	path = lfc
 	url = https://github.com/erhard-lab/lfc

@@ -1,10 +1,10 @@
 [
   {
-    "package": "lfc",
+    "package": "grandR",
     "oncran": true
   },
   {
-    "package": "grandR",
+    "package": "lfc",
     "oncran": true
   }
 ]

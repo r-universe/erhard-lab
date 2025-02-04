@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "HetSeq"]
+	path = HetSeq
+	url = https://github.com/erhard-lab/hetseq
 [submodule "grandR"]
 	path = grandR
 	url = https://github.com/erhard-lab/grandr
